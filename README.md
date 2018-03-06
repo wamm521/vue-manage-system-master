@@ -3,8 +3,6 @@
 
 [English document]
 
-## 捐赠
-![微信扫一扫](http://www.cnblogs.com/shj-com/p/8510466.html)
 
 ## 前言 ##
 之前在公司用了Vue + Element组件库做了个后台管理系统，基本很多组件可以直接引用组件库的，但是也有一些需求无法满足。像图片裁剪上传、富文本编辑器、图表等这些在后台管理系统中很常见的功能，就需要引用其他的组件才能完成。从寻找组件，到使用组件的过程中，遇到了很多问题，也积累了宝贵的经验。所以我就把开发这个后台管理系统的经验，总结成这个后台管理系统解决方案。
@@ -185,13 +183,3 @@ import 'element-ui/lib/theme-default/index.css';    // 默认主题
 
 第三步：打开 src/components/common/Sidebar.vue 文件，找到 el-menu 标签，把 theme="dark" 去掉即可。
 
-## 项目截图 ##
-### 默认皮肤 ###
-
-
-
-### 浅绿色皮肤 ###
-
-
-
-sssssssss
